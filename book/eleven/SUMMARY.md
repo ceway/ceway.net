@@ -1,0 +1,23 @@
+# Summary
+
+* [前言](README.md)
+    * [tests](test.md)
+* [经济管理](docs/economics.md)
+* [IT相关](docs/it.md)
+* [企业管理](docs/company.md)
+* [高企申报](docs/hightech.md)
+* [绩效管理](docs/manage_jx.md)
+* [人生教育](docs/lifeedu.md)
+* [机械设计](docs/mechanical.md)
+* [技术之道](docs/tech.md)
+* [经典语录](docs/say.md)
+* [艺术](docs/art.md)
+* [专利](docs/patent.md)
+* [学习方法](docs/studyway.md)
+* [人在职场](docs/hr.md)
+* [研发管理](docs/rd.md)
+* [国家大事](docs/country.md)
+* [1个案例](docs/flin.md)
+* [行政](docs/xingzheng.md)
+* [权术小人](docs/minipeople.md)
+
